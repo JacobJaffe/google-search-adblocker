@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "No Google Search Ads",
+    "name": "Google Search Adblocker",
     "version": "1.0",
 
     "description": "Removes Google Search Ads",
